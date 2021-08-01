@@ -15,4 +15,3 @@
 
 <img alt = "meme" src = "https://i.pinimg.com/originals/54/4d/54/544d540dbdbd29c415ee24e89af8cbc5.jpg"/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)

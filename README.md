@@ -4,7 +4,7 @@
 **JackieReganDev/JackieReganDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning fullstack JavaScript.
+- 🌱 I’m a fullstack JavaScript software engineer. 
 - 👯 I’m looking to collaborate on vanilla JavaScript projects.
 - 💬 Ask me about yoga and meditation.
 - 📫 How to reach me: JackieReganDev@yahoo.com
